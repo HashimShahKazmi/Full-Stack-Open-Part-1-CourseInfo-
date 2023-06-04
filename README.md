@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Full Stack Open Part A CourseInfo Step 1 Exercise
 
+This Includes all files required except node_modules which I was told to not upload.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,2 +1,2 @@
-# Full-Stack-Open-Part-1-CourseInfo-
+# Full-Stack-Open-Part-1-CourseInfo
 Part 1 CourseInfo
